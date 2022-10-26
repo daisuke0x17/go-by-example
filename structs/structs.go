@@ -30,5 +30,4 @@ func main() {
 
 	sp.age = 51
 	fmt.Println(sp.age)
-
 }
